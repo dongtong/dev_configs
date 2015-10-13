@@ -1,2 +1,3 @@
-# dev_configs
-Some development config files for backup
+# Development config files list
+
+* gulpfile for es6
